@@ -162,7 +162,7 @@ a{
 
 /* Hero section css starts */
 #hero{
-    background-image: url('img/town.jpg');
+    background-image: url('town.jpg');
     background-size: cover;
     background-position: top center;
     position: relative;
