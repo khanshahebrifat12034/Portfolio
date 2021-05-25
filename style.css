@@ -296,7 +296,7 @@ a{
     margin: 0px 10px 10px 10px;
 }
 #services .service-item {
-    background-image: url(back-2.jpg);
+    background-image: url('back-2.jpg');
     background-size: cover;
     box-sizing: border-box;
     border: solid rgb(255, 255, 255) 2px;
@@ -382,7 +382,7 @@ a{
     align-items: flex-start;
 	justify-content: center;
 	flex-direction: column;
-    background-image: url(eidoi.jpg);
+    background-image: url('eidoi.jpg');
     background-size: cover;
 	color: white;
     position: relative;
